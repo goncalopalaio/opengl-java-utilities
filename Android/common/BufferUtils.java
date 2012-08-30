@@ -1,5 +1,6 @@
-package palisade.particles;
-
+/**
+*credit to: palisade 
+*/
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.nio.FloatBuffer;
